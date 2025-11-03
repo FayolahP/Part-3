@@ -1,6 +1,6 @@
-package com.example.Part3.store;
+package com.example.part3.store;
 
-import com.example.Part3.dto.ResourceDTO;
+import com.example.part3.dto.ResourceDTO;
 import org.springframework.stereotype.Component;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
